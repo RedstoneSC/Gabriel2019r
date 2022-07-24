@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![gabEXPLAINSaLOREofTheFNFcommunity](https://user-images.githubusercontent.com/100803757/180645340-8f0d623d-fde9-4dd7-a777-194249de495f.gif)
+I am Gab! And I am just a guy, who makes FNF mods randomly. I am also an artist.
 <!--
 **Gabriel2019r/Gabriel2019r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
