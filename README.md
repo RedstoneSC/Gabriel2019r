@@ -13,4 +13,7 @@ Here is some information on me:
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm a smart guy :troll:
 
-![Gabriel2019r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel2019r&show_icons=true&theme=tokyonight)
+![Gabriel2019r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel2019r&show_icons=true&theme=synthwave)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel2019r&layout=compact&theme=synthwave)](https://github.com/Gabriel2019r/github-readme-stats)
+
