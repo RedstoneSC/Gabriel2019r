@@ -13,13 +13,3 @@ Here is some information on me:
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm a smart guy :troll:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Wither362&show_icons=true&theme=aura">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Wither362&show_icons=true&theme=vue">
-  <img alt="Show my github stats" src="https://github-readme-stats.vercel.app/api?username=Gabriel2019r&show_icons=true&theme=red">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wither362&theme=aura&langs_count=10&locale=en">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wither362&theme=vue&langs_count=10&locale=en">
-  <img alt="Show my languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel2019r&theme=blue-green&langs_count=10&locale=en">
-</picture>
