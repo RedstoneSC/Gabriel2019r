@@ -1,3 +1,10 @@
+![Gabriel2019r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel2019r&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel2019r&layout=compact&theme=dracula)](https://github.com/Gabriel2019r/github-readme-stats)
+
+
+
+
+
 ### Hi there 👋
 
 ![gabEXPLAINSaLOREofTheFNFcommunity](https://user-images.githubusercontent.com/100803757/180645340-8f0d623d-fde9-4dd7-a777-194249de495f.gif)
@@ -12,9 +19,3 @@ Here is some information on me:
 - 📫 How to reach me: Discord and Twitter
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm a smart guy :troll:
-
-
-
-![Gabriel2019r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel2019r&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel2019r&layout=compact&theme=dracula)](https://github.com/Gabriel2019r/github-readme-stats)
-
