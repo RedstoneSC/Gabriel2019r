@@ -14,6 +14,7 @@ Here is some information on me:
 - ⚡ Fun fact: I'm a smart guy :troll:
 
 
-![Gabriel2019r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel2019r&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel2019r&layout=compact&theme=dark)](https://github.com/Gabriel2019r/github-readme-stats)
+
+![Gabriel2019r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel2019r&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel2019r&layout=compact&theme=dracula)](https://github.com/Gabriel2019r/github-readme-stats)
 
