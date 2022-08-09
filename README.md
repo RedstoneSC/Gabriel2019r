@@ -13,4 +13,4 @@ Here is some information on me:
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm a smart guy :troll:
 
-https://github-readme-stats.vercel.app/api?username=Gabriel2019r&theme=red
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
